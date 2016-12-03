@@ -1,5 +1,5 @@
 '''
-Question:
+Question: Exam Arrangement
     
     We define that an exam would contain 3 questions, and we use a, b and c 
 to represent their diffculty levels. These three questions should satisfy 
@@ -30,6 +30,10 @@ Sample:
     20 35 23 40
     output:
     2
+
+AC: 100%
+
+URL: http://exercise.acmcoder.com/online/online_judge_list?konwledgeId=158
 '''
 
 
