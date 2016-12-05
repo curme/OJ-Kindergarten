@@ -21,6 +21,10 @@ Sample:
 AC: 100%
 
 URL: http://exercise.acmcoder.com/online/online_judge_list?konwledgeId=158
+
+Keyword: 
+	Trie tree, or dictionary tree, always used to store giant data and efficient 
+retrieve.
 '''
 
 
